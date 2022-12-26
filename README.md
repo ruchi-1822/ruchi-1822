@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->I am aspiring Artificial Intelligence Engineer.
+-->I am aspiring Artificial Intelligence Engineer
 - 🌱 I’m currently learning Computer Vision and Natural Language Processing
-- 👯 I’m looking to collaborate on AI-ML related Projects
+- 👯 I’m looking to collaborate on AI-ML related Projects :)
 - 📫 You can reach me through: http://www.linkedin.com/in/ruchic22

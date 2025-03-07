@@ -1,6 +1,6 @@
 #  Hi there! I'm Ruchi Chaturvedi 👋
 ## 💡 Where innovation meets AI, I push the boundaries!
-I'm Data & AI Associate @ Accenture, passionate about building intelligent systems that drive real-world impact. With a strong background in Data Engineering and AI/ML, I'm on a mission to create scalable and efficient AI-driven solutions.
+I'm Data & AI Associate @ Accenture, passionate about building intelligent systems that drive real-world impact. With a strong background from **B.Tech. in AI** and experience in Data Engineering, I'm on a mission to create scalable and efficient AI-driven solutions.
 ### 🚀 What I Do:
 
 - Developing and deploying AI/ML models for various applications
